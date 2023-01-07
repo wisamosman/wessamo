@@ -1,0 +1,22 @@
+.card{
+    background-color: wheat;
+    width: 25%;
+    padding: 70px 80px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: -84px -35px 2px -5px rgb(214, 214, 17);
+}
+.card:hover{
+    border: 1px solid black;
+    box-shadow: 3px 7px 12px 2px rgba(0,0,0,0.75);
+}
+.card img{
+    width: 75%;
+    margin-top: 30pt;
+}
+.card a{
+    display: block;
+}
+.card h1{
+    font-size: 45px;
+}
